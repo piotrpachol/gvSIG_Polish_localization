@@ -1,5 +1,5 @@
 # gvSIG Polish localization
-** Author: Piotr Pachół **
+**Author: Piotr Pachół**
 
 ### pl
 Projekt zawiera polską lokalizację oprogramowania gvSIG dla poszczególnych wersji.
