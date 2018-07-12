@@ -1,6 +1,9 @@
 # gvSIG Polish localization
 **Author: Piotr Pachół**
 
+##### *gvSIG web page: http://www.gvsig.com/*
+##### *gvSIG translators: http://docs.gvsig.org/plone/community/agradecimientos/translators*
+
 ### pl
 Projekt zawiera polską lokalizację oprogramowania gvSIG dla poszczególnych wersji.
 W lokalizacji oprogramowania gvSIG w wersji 1.x brali udział:
